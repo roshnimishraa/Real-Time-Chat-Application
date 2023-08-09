@@ -9,4 +9,13 @@ Chat Application in which user can join or create a personal chat room to chat w
 5. JavaScript
 
 # Installation 
-![image](https://github.com/roshnimishraa/Real-Time-Chat-Application/assets/121380696/93a3c447-8b02-4547-be37-e5e280aa63df)
+1 clone the repository to your local machine
+$ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application
+
+2 Install all the relevant dev-dependencies
+$ npm install
+
+3 Start application
+$ node index.js
+
+4 Visit localhost:3000 in your browser
