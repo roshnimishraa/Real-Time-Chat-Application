@@ -10,12 +10,12 @@ Chat Application in which user can join or create a personal chat room to chat w
 
 # Installation 
 1 clone the repository to your local machine
-$ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application
+ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application
 
 2 Install all the relevant dev-dependencies
-$ npm install
+ npm install
 
 3 Start application
-$ node index.js
+ node index.js
 
 4 Visit localhost:3000 in your browser
