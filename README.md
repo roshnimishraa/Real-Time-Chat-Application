@@ -6,7 +6,7 @@ Chat Application in which user can join or create a personal chat room to chat w
 2. Socket.io
 3. HTML
 4. CSS
-5. JavaScript
+5. JavaScript 
 
 # Installation 
 I clone the repository to your local machine <br />
