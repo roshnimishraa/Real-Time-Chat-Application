@@ -9,13 +9,13 @@ Chat Application in which user can join or create a personal chat room to chat w
 5. JavaScript
 
 # Installation 
-I clone the repository to your local machine
-$ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Entry-Management-Software.git
+I clone the repository to your local machine <br />
+$ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Real-Time-Chat-Application.git <br />
+<br />
+II navigate to the project's directory and install all the relevant dev-dependencies <br />
+$ npm intsall <br />
 
-II navigate to the project's directory and install all the relevant dev-dependencies
-$ npm intsall
-
-III Start application
-$ node index.js
+III Start application <br />
+$ node index.js    <br />
 
 IV Visit http://localhost:3000/ in your browser
