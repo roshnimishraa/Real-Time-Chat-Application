@@ -9,4 +9,13 @@ Chat Application in which user can join or create a personal chat room to chat w
 5. JavaScript
 
 # Installation 
-![image](https://github.com/roshnimishraa/Real-Time-Chat-Application/assets/121380696/b390c554-e8d7-474f-bc30-8222dcab22f3)
+# clone the repository to your local machine
+$ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Entry-Management-Software.git
+
+# navigate to the project's directory and install all the relevant dev-dependencies
+$ npm intsall
+
+# Start application
+$ node index.js
+
+# Visit http://localhost:3000/ in your browser
