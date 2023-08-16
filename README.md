@@ -10,7 +10,7 @@ Chat Application in which user can join or create a personal chat room to chat w
 
 # Installation 
 I clone the repository to your local machine <br />
-$ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Real-Time-Chat-Application.git <br />
+$ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application
 <br />
 II navigate to the project's directory and install all the relevant dev-dependencies <br />
 $ npm intsall <br />
