@@ -6,7 +6,11 @@ Chat Application in which user can join or create a personal chat room to chat w
 2. Socket.io
 3. HTML
 4. CSS
-5. JavaScript 
+5. JavaScript
+
+# Use-Case Diagram 
+![image](https://github.com/roshnimishraa/Real-Time-Chat-Application/assets/121380696/ae4fb64d-3fb0-4334-98ad-742dbe8bc3c8)
+
 
 # Output
 ![image](https://github.com/roshnimishraa/Real-Time-Chat-Application/assets/121380696/cb958383-b6ff-4c25-a3e0-445c3038c114)
